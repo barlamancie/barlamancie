@@ -44,7 +44,7 @@ flowchart TD
 ---
 <div align="center">
   <!-- GitHub Stats (Updated URL) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushsuthar07&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=barlamancie&show_icons=true&theme=radical" height="160" />
   <!-- GitHub Streak (Updated URL) -->
   <img src="https://streak-stats.demolab.com/?user=barlamancie&theme=radical" height="160" />
   <br>
@@ -58,7 +58,7 @@ flowchart TD
 ## 📡 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mancie-barla-168284289/><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="(https://www.linkedin.com/in/mancie-barla-168284289/)><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bmancie1302@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </div>
 
