@@ -14,7 +14,7 @@
 
 ## 🧬 My Tech Story: Automating + Innovating Across Stacks
 
-mermaid
+```mermaid
 flowchart TD
     Start{{Learn Basics}} --> Python[Python for Data]
     Python --> SQL[SQL & Databases]
@@ -22,7 +22,7 @@ flowchart TD
     EDA --> ML[Basic Machine Learning]
     ML --> BI[Dashboards in Power BI]
     BI --> Projects[End-to-End Projects]
-
+```
 
 
 - *Data Science Mindset*: I love turning raw, messy data into insights using Python, Pandas, NumPy, and ML models.
